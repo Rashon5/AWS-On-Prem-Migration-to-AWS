@@ -14,9 +14,7 @@ This repository documents the steps taken to set up an AWS environment with EC2,
 ![Image 1](https://i.imgur.com/OAssGhy.png)
 ![Image 2](https://i.imgur.com/k4kF8SE.png)
 
-## Video Implementation 
-https://youtu.be/iWRLlsk6Nyo
-
+## Video Implementation
 [![Watch the video](https://img.youtube.com/vi/iWRLlsk6Nyo/0.jpg)](https://youtu.be/iWRLlsk6Nyo)
 
 ## Creating VPC and Subnets
